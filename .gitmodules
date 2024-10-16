@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://hagrid862@github.com/hagrido-s-sample-projects/php-angular-fullstack-notes-app-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://hagrid862@github.com/hagrido-s-sample-projects/php-angular-fullstack-notes-app-frontend.git
